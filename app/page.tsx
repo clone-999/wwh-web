@@ -24,11 +24,11 @@ export default function Home() {
         <ImagesBanner />
         <AppleCardsSlider />
         <VideoBanner title={"ARAB MONEY:"} subTitle={"Culture | Music and Creativity"} vid={vid1} />
-        {/* <Grid /> */}
         <RecentProjects />
         <Clients />
         <VideoBanner title={"SAUDI ARABIA:"} subTitle={"The Turn Up Project"} vid={vid2} classy={"mt-36"} />
         <Experience />
+        <Grid />
         {/* <Approach /> */}
         <Footer />
       </div>
