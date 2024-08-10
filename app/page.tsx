@@ -11,6 +11,9 @@ import VideoBanner from "@/components/VideoBanner";
 import { navItems } from "@/data";
 import vid1 from '/videos/v111.mp4';
 import vid2 from '/videos/v22.mp4';
+import Experience from "@/components/Experience";
+import Approach from "@/components/Approach";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -25,6 +28,9 @@ export default function Home() {
         <RecentProjects />
         <Clients />
         <VideoBanner title={"SAUDI ARABIA:"} subTitle={"The Turn Up Project"} vid={vid2} classy={"mt-36"} />
+        <Experience />
+        {/* <Approach /> */}
+        <Footer />
       </div>
     </main>
   );

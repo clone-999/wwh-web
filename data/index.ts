@@ -178,29 +178,29 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Unmatched Creativity",
+      desc: "We bring a unique blend of cultural fusion and innovative thinking to every project, ensuring your brand stands out in a crowded marketplace.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Global Reach",
+      desc: "Our projects are designed to resonate with diverse audiences worldwide, helping you expand your brand’s influence across borders.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      title: "Comprehensive Solutions",
+      desc: "From creative production to digital marketing, we offer a full suite of services to meet all your branding and promotional needs.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Proven Success",
+      desc: "Our track record of successful projects and satisfied clients speaks for itself—partner with us to achieve impactful results.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
